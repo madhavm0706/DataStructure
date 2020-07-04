@@ -1,3 +1,5 @@
+// first occurance of an element
+
 #include<iostream>
 using namespace std;
 
