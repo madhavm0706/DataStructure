@@ -34,5 +34,5 @@ int n = sizeof(arr)/sizeof(arr[0]);
 
 int answer =  binarysearch(arr,0,n-1,x);
 
-cout<<"element present at index  "<<answer;
+cout<<"element present at index  "<<answer<<endl;
 }
