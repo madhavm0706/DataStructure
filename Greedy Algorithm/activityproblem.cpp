@@ -1,4 +1,4 @@
-//  Activity Selection Problem
+//  Activity Selection Problem when f[] is sorted
 
 #include<iostream>
 using namespace std;
